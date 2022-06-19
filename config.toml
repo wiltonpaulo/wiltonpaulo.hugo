@@ -1,0 +1,4 @@
+baseURL = 'http://wiltonpaulo.github.io/'
+languageCode = 'en-us'
+title = 'My Github Site'
+theme = "eureka"
