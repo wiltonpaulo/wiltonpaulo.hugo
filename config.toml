@@ -1,4 +1,4 @@
-baseURL = 'http://wiltonpaulo.github.io/'
+baseURL = 'https://wiltonpaulo.github.io/'
 languageCode = 'en-us'
 title = 'My Github Site'
 theme = "eureka"
