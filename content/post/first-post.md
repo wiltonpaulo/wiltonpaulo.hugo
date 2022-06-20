@@ -2,15 +2,16 @@
 author = "Wilton"
 title = "First Post"
 date = "2022-06-19"
-description = "Guide to emoji usage in Hugo"
+description = "This is the first post on this blog and I should place some loren ipsum text, but I decided to write anyway"
 tags = [
     "cloud",
     "engineer",
     "devops"
 ]
+thumbnail = "images/kubernetes.png"
 +++
 
-Emoji can be enabled in a Hugo project in a number of ways.
+Pod Security Admission is a new-ish feature in Kubernetes which provides out-of-the-box controls for the Pod Security Standards. I touch on its behavior a bit, but as it has been covered already elsewhere, in this article I really wanted to collect the pros and cons and then frame it in context of an admission controller like Kyverno.
 
 <!--more-->
 
