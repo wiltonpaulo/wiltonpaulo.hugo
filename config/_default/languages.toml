@@ -1,0 +1,10 @@
+
+[en]
+  title = "Wilton's Blog"
+  LanguageName = "English"
+  weight = 1
+
+#[pt]
+#  title = "Wilton's Blog" # just for the sake of showing this is possible
+#  LanguageName = "Português"
+#  weight = 2
