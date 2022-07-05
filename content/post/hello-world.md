@@ -1,17 +1,17 @@
 +++
 author = "Wilton"
-title = "First Post"
+title = "Hello World"
 date = "2022-06-19"
-description = "This is the first post on this blog and I should place some loren ipsum text, but I decided to write anyway"
+description = "That’s the first post on this blog/site. So. I decided to improve my writing skills in english and share them with everyone."
 tags = [
     "cloud",
     "engineer",
     "devops"
 ]
-thumbnail = "images/kubernetes.png"
+thumbnail = "images/hello_world.png"
 +++
 
-Pod Security Admission is a new-ish feature in Kubernetes which provides out-of-the-box controls for the Pod Security Standards. I touch on its behavior a bit, but as it has been covered already elsewhere, in this article I really wanted to collect the pros and cons and then frame it in context of an admission controller like Kyverno.
+That’s the first post on this blog/site. So. I decided to improve my writing skills in english and share them with everyone.
 
 <!--more-->
 

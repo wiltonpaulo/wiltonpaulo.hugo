@@ -4,7 +4,7 @@ enableSearch = true
 # socials
 twitter = "@wiltonpaulo"
 largeTwitterCard = false # set to true if you want to show a large twitter card image. The default is a small twitter card image
-introDescription = "DevOps/Cloud Engineer, Sysadmin, SRE</br>+20 years working with IT. Recent experience with terraform, gcp, aws, ansible, k8s, etc."
+#introDescription = "DevOps/Cloud Engineer, Sysadmin, SRE</br>+20 years working with IT. Recent experience with terraform, gcp, aws, ansible, k8s, etc."
 introURL = "about/" # set the url for the 'read more' button below the introDescription, or set to false to not show the button
 description = "A theme based on VMware's Clarity Design System for publishing technical blogs with Hugo." # Set your site's meta tag (SEO) description here. Alternatively set this description in your home page content file e.g. content/_index.md. Whatever is set in the latter will take precedence.
 # keywords = ["design", "clarity", "hugo theme"] # Set your site's meta tag (SEO) keywords here. Alternatively set these in your home page content file e.g. content/_index.md. Whatever is set in the latter will take precedence.
@@ -65,6 +65,7 @@ enforceLightMode = false
 
 # customize footer icon. see issue https://github.com/chipzoller/hugo-clarity/issues/77
 # footerLogo = "icons/copy.svg"
+footerLogo = "logos/coding.svg"
 
 # Customize Sidebar Disclaimer Text
 # sidebardisclaimer = true
@@ -109,7 +110,7 @@ iconsDir = "icons/" # without a leading forward slash
 # website author
 [author]
 name = "Wilton Paulo"
-photo = "https://avatars.githubusercontent.com/u/22643799?v=4"
+# photo = "https://avatars.githubusercontent.com/u/22643799?v=4"
 # photo = "images/jane-doe.png" #include this if you would like to show the author photo on the sidebar
 
 [plausible_analytics]
