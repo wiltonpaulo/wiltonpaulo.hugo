@@ -8,7 +8,7 @@ author = "Wilton Paulo"
 
 Hello there!!!
 
-I'm Wilton, an tech engineer from Brazil. I have 20+ years of professional experience in technology, where I’ve worked in all sorts of companies, including Hewlett Packard, BV Bank, Vivo, Embraer, UOL, Bionexo and so on. I worked in various roles such as Devops and Cloud Engineer, Site Reliability Engineer and, SysAdmin.
+I'm Wilton, an engineer from Brazil. I have 20+ years of professional experience in technology, where I’ve worked in all sorts of companies, including Hewlett Packard, BV Bank, Vivo, Embraer, UOL, Bionexo and so on. I worked in various roles such as Devops and Cloud Engineer, Site Reliability Engineer and, SysAdmin.
 
 I also worked leading teams, being one of the functions performed as a Tech Lead SRE and another as coordinator of a Cloud Foundation team.
 
