@@ -17,8 +17,8 @@ Actually. I'm studying topics like Kubernetes, Cloud, Terraform, DevOps, Python,
 In my personal life, I'm married for almost 14 years with two children. I like playing video games, walking, riding a bike, watching series on any streaming platform, or doing nothing.
 
 You can find me on the social networks below.
-- [twitter.com/wiltonpaulo](twitter.com/wiltonpaulo)
-- [github.com/wiltonpaulo](github.com/wiltonpaulo) 
-- [linkedin.com/in/wiltonpaulo](linkedin.com/in/wiltonpaulo).
+- [twitter.com/wiltonpaulo](https://twitter.com/wiltonpaulo)
+- [github.com/wiltonpaulo](https://github.com/wiltonpaulo)
+- [linkedin.com/in/wiltonpaulo](https://linkedin.com/in/wiltonpaulo).
 
 See you!
