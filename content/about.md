@@ -1,25 +1,26 @@
 +++
 title = "About"
 description = "About Me"
-date = "2019-02-28"
+date = "2022-11-26"
 aliases = ["about-us", "about-me", "contact"]
 author = "Wilton Paulo"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Hello there!!!
 
-Hugo makes use of a variety of open source projects including:
+I'm Wilton, an tech engineer from Brazil. I have 20+ years of professional experience in technology, where I’ve worked in all sorts of companies, including Hewlett Packard, BV Bank, Vivo, Embraer, UOL, Bionexo and so on. I worked in various roles such as Devops and Cloud Engineer, Site Reliability Engineer and, SysAdmin.
 
-- https://github.com/yuin/goldmark
-- https://github.com/alecthomas/chroma
-- https://github.com/muesli/smartcrop
-- https://github.com/spf13/cobra
-- https://github.com/spf13/viper
+I also worked leading teams, being one of the functions performed as a Tech Lead SRE and another as coordinator of a Cloud Foundation team.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+Actually, I'm spending time studying topics like Kubernetes, Cloud, Terraform, DevOps, Python and Golang.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+In my personal life, I'm married for almost 14 years with 2 children. I like to play videos games, walking, riding bike, watch series on any streaming platform or simply do nothing.
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+If you need to talk to me:
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+You can find me on the social networks below.
+ twitter.com/wiltonpaulo
+ github.com/wiltonpaulo
+ linkedin.com/in/wiltonpaulo
+
+See you!
