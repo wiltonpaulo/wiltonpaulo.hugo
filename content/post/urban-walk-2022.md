@@ -1,14 +1,14 @@
 +++
 author = "Wilton"
 title = "Urban Walk 2022"
-date = "2022-06-19"
+date = "2022-11-27"
 description = "My first experience running the 5km Urban Walk!"
 tags = [
     "cloud",
     "engineer",
     "devops"
 ]
-thumbnail = "images/hello_world.png"
+thumbnail = "images/urban_walk_2022.png"
 +++
 My first experience running the 5km Urban Walk 2022 marathon at Villa Lobos Park in São Paulo was unforgettable. As I arrived at the park, I was greeted by a sea of people all gearing up for the race. There was excitement and energy.
 <!--more-->
