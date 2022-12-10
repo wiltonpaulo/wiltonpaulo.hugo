@@ -14,8 +14,9 @@ Hello world,
 
 I am excited to announce that I have decided to create a technical personal blog! As a Cloud and DevOps engineer, I have a wealth of knowledge and experience to share with others in the field.
 
-Here are a few reasons why I have decided to embark on this journey:
 <!--more-->
+Here are a few reasons why I have decided to embark on this journey:
+
 Practice my writing skills: As a technical professional, writing is an essential part of my job. Whether it's documenting processes, creating tutorials, or writing technical reports, being able to effectively communicate my ideas through writing is crucial. By creating a personal blog, I can practice my writing skills and improve my ability to convey complex ideas in a clear and concise manner.
 
 Share my knowledge and expertise: I could say that I have a deep understanding of the technologies and processes involved in cloud computing, linux, IT infrastructures, and so on. By creating a blog, I can share this knowledge with others in the field, providing valuable insights and information that can help other professionals grow and improve.
